@@ -27,5 +27,5 @@ What did you learn while building this project? What challenges did you face and
 ![Home Page](https://github.com/RawatShruti/images_pvt/blob/main/Safar%20Screenshots/Home%20Page.PNG)
 
 
-! [Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
