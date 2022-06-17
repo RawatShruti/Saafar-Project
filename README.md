@@ -26,6 +26,28 @@ What did you learn while building this project? What challenges did you face and
 
 ![Home Page](https://github.com/RawatShruti/images_pvt/blob/main/Safar%20Screenshots/Home%20Page.PNG)
 
+![Registration Page](https://github.com/RawatShruti/images_pvt/blob/main/Safar%20Screenshots/Registration%20Page.jpeg)
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Login Page](https://github.com/RawatShruti/images_pvt/blob/main/Safar%20Screenshots/Login%20Page.jpeg)
 
+![Forgot Password Page](https://github.com/RawatShruti/images_pvt/blob/main/Safar%20Screenshots/Reset%20Page.jpeg)
+
+![Services Page](https://github.com/RawatShruti/images_pvt/blob/main/Safar%20Screenshots/Services%20Page.PNG)
+
+![Review Page](https://github.com/RawatShruti/images_pvt/blob/main/Safar%20Screenshots/Review%20Page.PNG)
+
+![Book Now Page](https://github.com/RawatShruti/images_pvt/blob/main/Safar%20Screenshots/Book%20Now%20Page.jpeg)
+
+![City Taxi Page](https://github.com/RawatShruti/images_pvt/blob/main/Safar%20Screenshots/City%20Taxi%20Page.jpeg)
+
+![Sharing Page](https://github.com/RawatShruti/images_pvt/blob/main/Safar%20Screenshots/Sharing%20Page.jpeg)
+
+![Rental Page](https://github.com/RawatShruti/images_pvt/blob/main/Safar%20Screenshots/Rental%20Page.jpeg)
+
+![About Us Page](https://github.com/RawatShruti/images_pvt/blob/main/Safar%20Screenshots/About%20Us%20Page.jpeg)
+
+![Contact Us Page](https://github.com/RawatShruti/images_pvt/blob/main/Safar%20Screenshots/Contact%20Page.PNG)
+
+![Footer Page](https://github.com/RawatShruti/images_pvt/blob/main/Safar%20Screenshots/Reset%20Page.jpeg)
+
+![Team Safar Page](https://github.com/RawatShruti/images_pvt/blob/main/Safar%20Screenshots/Team%20Safar%20Page.jpeg)
