@@ -48,6 +48,4 @@ What did you learn while building this project? What challenges did you face and
 
 ![Contact Us Page](https://github.com/RawatShruti/images_pvt/blob/main/Safar%20Screenshots/Contact%20Page.PNG)
 
-![Footer Page](https://github.com/RawatShruti/images_pvt/blob/main/Safar%20Screenshots/Reset%20Page.jpeg)
-
 ![Team Safar Page](https://github.com/RawatShruti/images_pvt/blob/main/Safar%20Screenshots/Team%20Safar%20Page.jpeg)
