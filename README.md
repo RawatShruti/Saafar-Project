@@ -1,7 +1,8 @@
 
 # Safar
-
-A brief description of what this project does and who it's for
+This website was created to learn the fundamentals of HTML, CSS, JS, PHP and MySQL. This website seeks to provide cab services similar to those offered by Ola and Uber. You can reserve a taxi in your city. You can also split your cab fare with other passengers to save money. For individuals who wish to explore the city on their own, Safar also offers automobile rental services.
+ 
+This site was developed as part of a final year project during our bachelor's at Banasthali University, Jaipur.
 
 
 ## Demo
