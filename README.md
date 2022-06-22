@@ -10,10 +10,6 @@ This site was developed as part of a final year project during our bachelor's at
 [Click here to check out demo of our site](https://rawatshruti.github.io/Saafar-Project)
 
 
-## Lessons Learned
-
-What did you learn while building this project? What challenges did you face and how did you overcome them?
-
 ## Tech Stack
 
 **Client:** HTML, CSS, JS
