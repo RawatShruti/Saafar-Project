@@ -20,7 +20,7 @@ This site was developed as part of a final year project during our bachelor's at
 ## Authors
 
 - [@PalakChourasia](https://github.com/PalakChourasia)
-- [@shrash25](https://github.com/shrash25)
+- [@shrasthi25](https://github.com/shrasthi25)
 - [@RawatShruti](https://github.com/RawatShruti)
 - [@swatinaik0101](https://github.com/swatinaik0101)
 
